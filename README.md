@@ -14,7 +14,7 @@ Use npm run dev to initiate the server in your terminal.
 Visit http://localhost:3000/ in your browser. Default provided port is 3000.
 
 ## Usage
-
+To access the note taker webpage, please use this URL: https://itsbbea.github.io/note-taker/
 
 ## License
 This project is licensed under MIT.
