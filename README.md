@@ -12,7 +12,7 @@ Use npm run dev to initiate the server in your terminal.
 Visit http://localhost:3000/ in your browser. Default provided port is 3000.
 
 ## Usage
-Run the following command in your terminal to initialize the application: node script.js and follow the prompts to generate your SVG Logo.
+
 
 ## License
 This project is licensed under MIT.
